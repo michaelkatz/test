@@ -23,9 +23,10 @@ Requirements
 - PyTorch
 
 
-Run
----
+Inference
+---------
 
+run:  
 python automl.py
 
 <!--
