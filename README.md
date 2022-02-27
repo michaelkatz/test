@@ -1,6 +1,6 @@
 # Efficient Meta Subspace Optimization
 
-This project includes the code accompanying the submission to AutoML 2022 entitled "Efficient Meta Subspace Optimization".
+This repository includes the code accompanying the submission to AutoML 2022 entitled "Efficient Meta Subspace Optimization".
 
 The code implements a meta optimizer which is applied to the subspace optimization paradigm, and used to optimize the 
 loss function of Robust Linear Regression, described in section 4.2 of the paper:
